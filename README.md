@@ -185,3 +185,4 @@ Si vous souhaitez, je peux :
 - Externaliser le CSS et préparer une compilation d'assets
 
 Indiquez quelle tâche vous voulez prioriser.
+# Gab-Echo
