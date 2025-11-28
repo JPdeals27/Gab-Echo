@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: gab-echo-laravel
+    name: Gab-Echo
     env: php
     region: oregon
     branch: main
